@@ -1,0 +1,109 @@
+Blue,Dwarka Sector 21,Dwarka Sector 8,3,No
+Blue,Dwarka Sector 8,Dwarka Sector 9,3,No
+Blue,Dwarka Sector 9,Dwarka Sector 10,2,No
+Blue,Dwarka Sector 10,Dwarka Sector 11,3,No
+Blue,Dwarka Sector 11,Dwarka Sector 12,2,No
+Blue,Dwarka Sector 12,Dwarka Sector 13,3,No
+Blue,Dwarka Sector 13,Dwarka Sector 14,2,No
+Blue,Dwarka Sector 14,Dwarka,3,No
+Blue,Dwarka,Dwarka Mor,2,No
+Blue,Dwarka Mor,Nawada,2,No
+Blue,Nawada,Uttam Nagar West,2,No
+Blue,Uttam Nagar West,Uttam Nagar East,2,No
+Blue,Uttam Nagar East,Janakpuri West,3,Yes
+Blue,Janakpuri West,Janakpuri East,2,Yes
+Blue,Janakpuri East,Tilak Nagar,3,No
+Blue,Tilak Nagar,Subhash Nagar,3,No
+Blue,Subhash Nagar,Tagore Garden,2,No
+Blue,Tagore Garden,Rajouri Garden,2,No
+Blue,Rajouri Garden,Ramesh Nagar,3,No
+Blue,Ramesh Nagar,Moti Nagar,2,No
+Blue,Moti Nagar,Kirti Nagar,2,No
+Blue,Kirti Nagar,Shadipur,3,No
+Blue,Shadipur,Patel Nagar,2,No
+Blue,Patel Nagar,Rajendra Place,2,No
+Blue,Rajendra Place,Karol Bagh,2,No
+Blue,Karol Bagh,Jhandewalan,2,No
+Blue,Jhandewalan,Rama krishna Ashram Marg,2,No
+Blue,Rama krishna Ashram Marg,Rajiv Chowk,3,No
+Blue,Rajiv Chowk,Barakhamba Road,2,No
+Blue,Barakhamba Road,Mandi House,2,No
+Blue,Mandi House,Pragati Maidan,2,No
+Blue,Pragati Maidan,Indraprastha,2,No
+Blue,Indraprastha,Yamuna Bank,3,No
+Blue,Yamuna Bank,Laxmi Nagar,3,No
+Blue,Laxmi Nagar,Nirman Vihar,2,No
+Blue,Nirman Vihar,Preet Vihar,2,No
+Blue,Preet Vihar,Karkarduma,3,No
+Blue,Karkarduma,Anand Vihar,2,No
+Blue,Anand Vihar,Kaushambi,3,No
+Blue,Kaushambi,Vaishali,3,No
+Blue,Yamuna Bank,Akshardham,3,No
+Blue,Akshardham,Mayur Vihar Phase 1,2,No
+Blue,Mayur Vihar Phase 1,Mayur Vihar Ext.,3,No
+Blue,Mayur Vihar Ext.,New Ashok Nagar,2,No
+Blue,New Ashok Nagar,Noida Sector 15,4,No
+Blue,Noida Sector 15,Noida Sector 16,2,No
+Blue,Noida Sector 16,Noida Sector 18,2,No
+Blue,Noida Sector 18,Botanical Garden,3,Yes
+Blue,Botanical Garden,Golf Course,2,Yes
+Blue,Golf Course,Noida City Centre,2,No
+Blue,Noida City Centre,Noida Sector 34,3,No
+Blue,Noida Sector 34,Noida Sector 52,3,No
+Blue,Noida Sector 52,Noida Sector 61,2,No
+Blue,Noida Sector 61,Noida Sector 59,2,No
+Blue,Noida Sector 59,Noida Sector 62,2,No
+Blue,Noida Sector 62,Noida Electronic City,3,No
+Magenta,Janakpuri West,Dabri Mor,3,Yes
+Magenta,Dabri Mor,Dashrath Puri,2,No
+Magenta,Dashrath Puri,Palam,2,No
+Magenta,Palam, Sadar Bazaar Cantonment,3,No
+Magenta,Sadar Bazaar Cantonment,Terminal 1 IGI Airport,4,No
+Magenta,Terminal 1 IGI Airport,Shankar Vihar,4,No
+Magenta,Shankar Vihar,Vasant Vihar,3,No
+Magenta,Vasant Vihar,Munirka,3,No
+Magenta,Munirka,Rama Krishna Puram,2,No
+Magenta,Rama Krishna Puram,IIT Delhi,3,No
+Magenta,IIT Delhi,Hauz khas,2,No
+Magenta,Hauz Khas,Panchsheel Park,3,No
+Magenta,Panchsheel Park,Chirag Delhi,2,No
+Magenta,Chirag Delhi,Greater Kailash,2,No
+Magenta,Greater Kailash,Nehru Enclave,3,No
+Magenta,Nehru Enclave,Kalkaji Mandir,2,No
+Magenta,Kalkaji Mandir,Okhla NSIC,2,No
+Magenta,Okhla NSIC,Sukhdev Vihar,2,No
+Magenta,Sukhdev Vihar,Jamia Millia Islamia,3,No
+Magenta,Jamia Millia Islamia,Okhla Vihar,2,No
+Magenta,Okhla Vihar,Jasola Vihar Shaheen Bagh,2,No
+Magenta,Jasola Vihar Shaheen Bagh,Kalindi Kunj,2,No
+Magenta,Kalindi Kunj,Okhla Bird Sanctuary,2,No
+Magenta,Okhla Bird Sanctuary,Botanical Garden,2,Yes
+Red,Shaheed Sthal,Hindon River,2,No
+Red,Hindon River,Arthala,2,No
+Red,Arthala,Mohan Nagar,3,No
+Red,Mohan Nagar,Shyam Park,2,No
+Red,Shyam Park,Major Mohit Sharma Rajendra Nagar,2,No
+Red,Major Mohit Sharma Rajendra Nagar,Raj Bagh,2,No
+Red,Raj Bagh,Shaheed Nagar,3,No
+Red,Shaheed Nagar,Dilshad Garden,2,No
+Red,Dilshad Garden,Jhilmil,3,No
+Red,Jhilmil,Mansarovar Park,2,No
+Red,Mansarovar Park,Shahdara,3,No
+Red,Shahdara,Welcome,2,No
+Red,Welcome,Seelampur,2,No
+Red,Seelampur,Shastri Park,2,No
+Red,Shastri Park,Kashmere Gate,2,No
+Red,Kashmere Gate,Tis Hazari,3,No
+Red,Tis Hazari,Pul Bangash,2,No
+Red,Pul Bangash,Pratap Nagar,2,No
+Red,Pratap Nagar,Shastri Nagar,2,No
+Red,Shastri Nagar,Inderlok,2,No
+Red,Inderlok,Kanhaiya Nagar,3,No
+Red,Kanhaiya Nagar,Keshav Puram,2,No
+Red,Keshav Puram,Netaji Subhash Place,3,No
+Red,Netaji Subhash Place,Kohat Enclave,2,No
+Red,Kohat Enclave,Pitampura,2,No
+Red,Pitampura,Rohini East,3,No
+Red,Rohini East,Rohini West,2,No
+Red,Rohini West,Rithala,3,No
+Red,Rithala,Rithala,0,No
